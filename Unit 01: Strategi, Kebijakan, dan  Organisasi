@@ -1,0 +1,82 @@
+# Unit 01: Strategi, Kebijakan, dan Arsitektur Organisasi
+
+Materi ini mencakup tiga unit kompetensi inti dalam SKKNI 149/2020 yang berfokus pada fondasi strategis pengelolaan SDM di tingkat manajerial.
+
+---
+
+## 1. Menyusun Strategi dan Perencanaan MSDM (M.70SDM01.001.2)
+
+Unit ini fokus pada kemampuan menyelaraskan strategi HR dengan strategi bisnis (*Business Alignment*).
+
+### A. Analisis Lingkungan Bisnis
+Sebelum menyusun strategi, seorang HR Manager harus memahami konteks organisasi:
+* **Eksternal (PESTEL):** Politik, Ekonomi, Sosial, Teknologi, Lingkungan, dan Legal.
+* **Internal (SWOT):** Strength, Weakness, Opportunity, Threat.
+
+### B. Perumusan Strategi MSDM
+1.  **Visi & Misi HR:** Harus mendukung visi besar perusahaan.
+2.  **HR Roadmap:** Rangkaian inisiatif strategis (misal: Digital Transformation, Talent War Readiness) untuk 1-3 tahun ke depan.
+3.  **Key Performance Indicators (KPI):** Menentukan metrik keberhasilan (misal: *Turnover Rate, Employee Productivity Index, Revenue per FTE*).
+
+### C. Perencanaan Anggaran (Budgeting)
+Menyusun estimasi biaya SDM (Labor Cost) yang mencakup biaya rekrutmen, pelatihan, remunerasi, hingga biaya terminasi.
+
+---
+
+## 2. Menyusun Kebijakan MSDM (M.70SDM01.002.2)
+
+Kebijakan adalah instrumen formal untuk memastikan operasional HR berjalan konsisten dan patuh hukum.
+
+### A. Komponen Kebijakan yang Efektif
+Kebijakan yang disusun harus memenuhi kriteria:
+* **Compliance:** Sesuai dengan UU Cipta Kerja dan peraturan turunannya.
+* **Equity:** Menjamin keadilan bagi seluruh karyawan.
+* **Clarity:** Mudah dipahami dan tidak multitafsir.
+
+### B. Hierarki Dokumen Kebijakan
+1.  **Peraturan Perusahaan (PP) / Perjanjian Kerja Bersama (PKB):** Konstitusi tertinggi di perusahaan.
+2.  **Standard Operating Procedure (SOP):** Alur kerja teknis (misal: SOP Rekrutmen, SOP Disiplin).
+3.  **Surat Keputusan (SK):** Penentuan hal spesifik (misal: SK Pengangkatan, SK Struktur Upah).
+
+### C. Tahapan Penyusunan
+* Identifikasi kebutuhan kebijakan.
+* Drafting & Review (legal & operasional).
+* Sosialisasi kepada seluruh pemangku kepentingan.
+
+---
+
+## 3. Merancang Arsitektur Organisasi (M.70SDM01.004.2)
+
+Arsitektur organisasi adalah tentang bagaimana perusahaan mengatur dirinya sendiri untuk mencapai efisiensi maksimal.
+
+### A. Desain Struktur Organisasi
+Memilih model yang paling sesuai dengan strategi bisnis:
+* **Functional:** Berdasarkan fungsi (Marketing, Finance, HR).
+* **Divisional/Matrix:** Berdasarkan lini produk atau wilayah geografis.
+* **Flat Organization:** Memangkas birokrasi untuk kecepatan (Agile).
+
+### B. Analisis Beban Kerja (Workload Analysis - WLA)
+Menentukan jumlah SDM yang optimal berdasarkan:
+* Volume pekerjaan.
+* Waktu kerja efektif.
+* Target output.
+
+### C. Analisis Jabatan (Job Analysis)
+Menghasilkan dua dokumen krusial:
+1.  **Uraian Jabatan (Job Description):** Apa yang dilakukan (Tugas & Tanggung Jawab).
+2.  **Spesifikasi Jabatan (Job Specification):** Siapa yang melakukan (Kualifikasi, Kompetensi, Skill).
+
+---
+
+## 🛠️ Evidence / Bukti Kerja untuk Asesmen
+*Untuk memenuhi syarat sertifikasi, pastikan folder `/evidence` Anda berisi:*
+
+| Unit Kompetensi | Bukti (Evidence) yang Disarankan |
+| :--- | :--- |
+| **Strategi & Perencanaan** | Dokumen HR Strategic Plan / HR Scorecard / Budget Plan. |
+| **Kebijakan MSDM** | Draft Peraturan Perusahaan atau 2-3 SOP HR yang telah disahkan. |
+| **Arsitektur Organisasi** | Struktur Organisasi terbaru & Analisis Jabatan (Job Desc). |
+
+---
+
+> **Refleksi Manajerial:** > "Strategi tanpa arsitektur yang tepat adalah kekacauan; arsitektur tanpa kebijakan yang kuat adalah anarki."
