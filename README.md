@@ -10,36 +10,47 @@ Repository ini berisi materi, ringkasan, dan bukti kerja (*Portfolio*) untuk mem
 Berdasarkan jenjang kualifikasi 6 atau 7 (Level Manager), berikut adalah unit kompetensi utama yang dipersiapkan:
 
 ### 1. Strategi & Perencanaan
-- [ ] **M.70SDM01.001.2** | Menyusun Strategi dan Perencanaan MSDM
-- [ ] **M.70SDM01.002.2** | Menyusun Kebijakan MSDM
-- [ ] **M.70SDM01.004.2** | Merancang Arsitektur Organisasi
+- [x] **M.70SDM01.001.2** | [Menyusun Strategi dan Perencanaan MSDM](01-strategi-perencanaan/M.70SDM01.001.2-strategi-perencanaan-msdm.md)
+- [x] **M.70SDM01.002.2** | [Menyusun Kebijakan MSDM](01-strategi-perencanaan/M.70SDM01.002.2-kebijakan-msdm.md)
+- [x] **M.70SDM01.004.2** | [Merancang Arsitektur Organisasi](01-strategi-perencanaan/M.70SDM01.004.2-arsitektur-organisasi.md)
 
 ### 2. Pengembangan Organisasi & Talenta
-- [ ] **M.70SDM01.010.2** | Mengelola Perubahan Organisasi
-- [ ] **M.70SDM01.012.2** | Menyusun Manajemen Suksesi
-- [ ] **M.70SDM01.013.2** | Mengelola Pengembangan Talenta (*Talent Management*)
+- [x] **M.70SDM01.010.2** | [Mengelola Perubahan Organisasi](02-pengembangan-organisasi-talenta/M.70SDM01.010.2-perubahan-organisasi.md)
+- [x] **M.70SDM01.012.2** | [Menyusun Manajemen Suksesi](02-pengembangan-organisasi-talenta/M.70SDM01.012.2-manajemen-suksesi.md)
+- [x] **M.70SDM01.013.2** | [Mengelola Pengembangan Talenta (*Talent Management*)](02-pengembangan-organisasi-talenta/M.70SDM01.013.2-talent-management.md)
 
 ### 3. Manajemen Kinerja & Remunerasi
-- [ ] **M.70SDM01.016.2** | Mengelola Sistem Upah
-- [ ] **M.70SDM01.015.2** | Mengelola Sistem Manajemen Kinerja
+- [x] **M.70SDM01.015.2** | [Mengelola Sistem Manajemen Kinerja](03-kinerja-remunerasi/M.70SDM01.015.2-manajemen-kinerja.md)
+- [x] **M.70SDM01.016.2** | [Mengelola Sistem Upah](03-kinerja-remunerasi/M.70SDM01.016.2-sistem-upah.md)
 
 ### 4. Hubungan Industrial
-- [ ] **M.70SDM01.025.2** | Membangun Komunikasi Harmonis dengan Pekerja
-- [ ] **M.70SDM01.028.2** | Menyelesaikan Perselisihan Hubungan Industrial
+- [x] **M.70SDM01.025.2** | [Membangun Komunikasi Harmonis dengan Pekerja](04-hubungan-industrial/M.70SDM01.025.2-komunikasi-harmonis.md)
+- [x] **M.70SDM01.028.2** | [Menyelesaikan Perselisihan Hubungan Industrial](04-hubungan-industrial/M.70SDM01.028.2-perselisihan-hubungan-industrial.md)
 
 ---
 
-## 📚 Materi Ringkas & Case Study
+## 📖 Materi Pembelajaran
 
-### Unit: Menyusun Strategi MSDM
-**Deskripsi:** Kemampuan menyelaraskan strategi HR dengan strategi bisnis perusahaan (Business Alignment).
+Setiap unit kompetensi memiliki dokumen materi yang mencakup:
+- **Deskripsi Unit** — tujuan dan lingkup kompetensi
+- **Elemen Kompetensi & KUK** — kriteria unjuk kerja dalam format tabel
+- **Materi Pembelajaran** — teori, framework, dan konsep kunci
+- **Studi Kasus** — skenario nyata konteks Indonesia
+- **Poin Kunci untuk Asesmen** — checklist persiapan ujian
+- **Evidence / Bukti Kerja** — panduan dokumen portofolio
 
-**Key Learning Points:**
-1. **Analisis Eksternal & Internal:** PESTEL dan SWOT Analysis.
-2. **HR Scorecard:** Menurunkan strategi bisnis ke dalam KPI HR.
-3. **Workforce Planning:** Menghitung kebutuhan SDM 1-3 tahun ke depan.
-
-> **Note:** Sebagai penulis senior, saya akan menyusun narasi *case study* yang kuat di bagian ini untuk menunjukkan kedalaman analisis pada saat asesmen.
+| No | Kode Unit | Materi |
+| :--- | :--- | :--- |
+| 1 | M.70SDM01.001.2 | [Strategi & Perencanaan MSDM](01-strategi-perencanaan/M.70SDM01.001.2-strategi-perencanaan-msdm.md) |
+| 2 | M.70SDM01.002.2 | [Kebijakan MSDM](01-strategi-perencanaan/M.70SDM01.002.2-kebijakan-msdm.md) |
+| 3 | M.70SDM01.004.2 | [Arsitektur Organisasi](01-strategi-perencanaan/M.70SDM01.004.2-arsitektur-organisasi.md) |
+| 4 | M.70SDM01.010.2 | [Perubahan Organisasi](02-pengembangan-organisasi-talenta/M.70SDM01.010.2-perubahan-organisasi.md) |
+| 5 | M.70SDM01.012.2 | [Manajemen Suksesi](02-pengembangan-organisasi-talenta/M.70SDM01.012.2-manajemen-suksesi.md) |
+| 6 | M.70SDM01.013.2 | [Talent Management](02-pengembangan-organisasi-talenta/M.70SDM01.013.2-talent-management.md) |
+| 7 | M.70SDM01.015.2 | [Manajemen Kinerja](03-kinerja-remunerasi/M.70SDM01.015.2-manajemen-kinerja.md) |
+| 8 | M.70SDM01.016.2 | [Sistem Upah](03-kinerja-remunerasi/M.70SDM01.016.2-sistem-upah.md) |
+| 9 | M.70SDM01.025.2 | [Komunikasi Harmonis dengan Pekerja](04-hubungan-industrial/M.70SDM01.025.2-komunikasi-harmonis.md) |
+| 10 | M.70SDM01.028.2 | [Penyelesaian Perselisihan Industrial](04-hubungan-industrial/M.70SDM01.028.2-perselisihan-hubungan-industrial.md) |
 
 ---
 
