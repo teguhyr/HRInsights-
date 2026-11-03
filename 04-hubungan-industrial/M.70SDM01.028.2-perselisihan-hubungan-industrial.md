@@ -82,16 +82,23 @@ TAHAP 4: MAHKAMAH AGUNG (Kasasi)
 ### D. Pemutusan Hubungan Kerja (PHK)
 
 #### Alasan PHK yang Sah (PP No. 35/2021):
-| Alasan PHK | Pasal |
-| :--- | :--- |
-| Pekerja mengundurkan diri | Pasal 36 |
-| Pekerja melakukan pelanggaran berat | Pasal 52 |
-| Pekerja meninggal dunia | Pasal 61 |
-| Pekerja memasuki usia pensiun | Pasal 56 |
-| Efisiensi perusahaan | Pasal 40 |
-| Perusahaan pailit | Pasal 43 |
-| Pekerja ditahan/dipidana | Pasal 49 |
-| Pekerja sakit berkepanjangan (>12 bulan) | Pasal 57 |
+
+Daftar alasan PHK dimuat dalam Pasal 36 PP 35/2021; hak pekerja untuk setiap alasan diatur pada pasal-pasal berikut. Tabel ini memuat alasan yang paling sering diuji, bukan daftar lengkap.
+
+| Alasan PHK | Pasal (hak pekerja) | Pengali UP | Pengali UPMK |
+| :--- | :--- | :---: | :---: |
+| Efisiensi **karena mengalami kerugian** | Pasal 43 ayat (1) | 0,5× | 1× |
+| Efisiensi **untuk mencegah terjadinya kerugian** | Pasal 43 ayat (2) | 1× | 1× |
+| Perusahaan pailit | Pasal 47 | 0,5× | 1× |
+| Pekerja mengundurkan diri atas kemauan sendiri | Pasal 50 | — (UPH + uang pisah) | — |
+| Pelanggaran PK/PP/PKB setelah surat peringatan | Pasal 52 ayat (1) | 0,5× | 1× |
+| Pelanggaran bersifat mendesak yang diatur dalam PK/PP/PKB | Pasal 52 ayat (2) | — (UPH + uang pisah) | — |
+| Pekerja ditahan pihak berwajib (6 bulan / terbukti bersalah) | Pasal 54 | — | 1× |
+| Pekerja sakit berkepanjangan atau cacat akibat kecelakaan kerja (> 12 bulan) | Pasal 55 | 2× | 1× |
+| Pekerja memasuki usia pensiun | Pasal 56 | 1,75× | 1× |
+| Pekerja meninggal dunia | Pasal 57 | 2× | 1× |
+
+> ⚠️ **Perlu diverifikasi:** nomor pasal, ayat, dan pengali di atas disusun dari PP 35/2021 dan wajib dicek ulang terhadap naskah resmi (JDIH Kemnaker/peraturan.go.id) serta perubahan regulasi terkini sebelum dipakai untuk kasus nyata.
 
 #### Komponen Hak Pekerja yang Di-PHK:
 **Uang Pesangon (UP), Uang Penghargaan Masa Kerja (UPMK), dan Uang Penggantian Hak (UPH)**
@@ -123,12 +130,20 @@ TAHAP 4: MAHKAMAH AGUNG (Kasasi)
 | 21 – < 24 tahun | 8 bulan upah |
 | ≥ 24 tahun | 10 bulan upah |
 
-> **Catatan Penting:** Besaran total = UP × multiplier + UPMK × multiplier + UPH. Multiplier berbeda berdasarkan alasan PHK (lihat PP 35/2021 Pasal 40-61). Untuk efisiensi: UP = 0.5× dan UPMK = 1×. Untuk perusahaan pailit: UP = 0.5× dan UPMK = 1×.
+> **Catatan Penting:** Besaran total = (UP × pengali) + (UPMK × pengali) + UPH. Pengali berbeda menurut alasan PHK (PP 35/2021 Pasal 41–57; lihat tabel alasan PHK di atas). PHK karena efisiensi **harus dibedakan** menurut dasarnya:
+> - efisiensi **karena perusahaan mengalami kerugian** (Pasal 43 ayat (1)): UP = 0,5× dan UPMK = 1×;
+> - efisiensi **untuk mencegah terjadinya kerugian** (Pasal 43 ayat (2)): UP = 1× dan UPMK = 1×.
+>
+> Untuk perusahaan pailit (Pasal 47): UP = 0,5× dan UPMK = 1×. Upah yang menjadi dasar perhitungan adalah upah pokok ditambah tunjangan tetap.
+>
+> ⚠️ **Perlu diverifikasi terhadap regulasi terkini.** Putusan MK No. 168/PUU-XXI/2023 (dibacakan 31 Oktober 2024) memaknai besaran pesangon dalam Pasal 156 ayat (2) UU 13/2003 sebagaimana diubah UU 6/2023 sebagai jumlah **"paling sedikit"**, sehingga tabel PP 35/2021 merupakan batas minimum yang dapat dilampaui melalui PK/PP/PKB atau Perjanjian Bersama. Putusan yang sama memerintahkan pembentukan undang-undang ketenagakerjaan baru; pemberitaan media menyebut DPR mengesahkan UU Pelindungan Ketenagakerjaan pada 6 Oktober 2026 dengan masa transisi. Sebelum menghitung hak untuk kasus nyata, pastikan apakah PP 35/2021 masih berlaku atau telah diganti aturan pelaksana baru. Materi ini adalah informasi umum, bukan nasihat hukum.
 
-#### UPH (Uang Penggantian Hak):
+#### UPH (Uang Penggantian Hak) — PP 35/2021 Pasal 40 ayat (4):
 - Cuti tahunan yang belum diambil dan belum gugur.
-- Biaya transport pulang ke domisili.
-- Penggantian perumahan, pengobatan, dan perawatan ditetapkan 15% dari UP + UPMK.
+- Biaya atau ongkos pulang untuk pekerja dan keluarganya ke tempat pekerja diterima bekerja.
+- Hal-hal lain yang ditetapkan dalam Perjanjian Kerja (PK), Peraturan Perusahaan (PP), atau Perjanjian Kerja Bersama (PKB).
+
+> **Perubahan penting:** penggantian perumahan, pengobatan, dan perawatan sebesar **15% dari UP + UPMK** adalah ketentuan Pasal 156 ayat (4) huruf c UU 13/2003 **sebelum** diubah. Setelah perubahan melalui UU Cipta Kerja (kini UU 6/2023) dan PP 35/2021, komponen 15% tersebut **tidak lagi berlaku otomatis**; ia hanya menjadi hak bila diperjanjikan dalam PK/PP/PKB.
 
 ### E. Prosedur PHK yang Legal
 
@@ -219,18 +234,20 @@ PT Maju Bersama, perusahaan retail dengan 800 karyawan, memutuskan menutup 12 ge
 
 ## Latihan Soal: Hitung Hak PHK
 
-**Soal:** Seorang karyawan bernama Budi, bekerja selama 9 tahun 2 bulan, dengan gaji pokok Rp 8.000.000 dan tunjangan tetap Rp 2.000.000 (total upah = Rp 10.000.000). Di-PHK karena efisiensi perusahaan.
+**Soal:** Karyawan A (data fiktif) bekerja selama 9 tahun 2 bulan, dengan gaji pokok Rp 8.000.000 dan tunjangan tetap Rp 2.000.000 (total upah = Rp 10.000.000). Karyawan A di-PHK karena efisiensi. Hitung haknya untuk dua skenario: (a) efisiensi karena perusahaan mengalami kerugian, dan (b) efisiensi untuk mencegah terjadinya kerugian.
 
 **Jawaban:**
 
-*Alasan efisiensi: UP = 0.5× ketentuan, UPMK = 1× ketentuan*
+*Dasar: UP masa kerja ≥ 8 tahun = 9 bulan upah; UPMK masa kerja 9 – < 12 tahun = 4 bulan upah (PP 35/2021 Pasal 40 ayat (2)–(3)).*
 
-| Komponen | Perhitungan | Nilai |
-| :--- | :--- | :--- |
-| UP (masa kerja ≥8 th = 9 bulan × 0.5) | 9 × 0.5 × Rp 10.000.000 | Rp 45.000.000 |
-| UPMK (masa kerja 9-<12 th = 4 bulan × 1) | 4 × 1 × Rp 10.000.000 | Rp 40.000.000 |
-| UPH (15% dari UP+UPMK) | 15% × Rp 85.000.000 | Rp 12.750.000 |
-| **TOTAL** | | **Rp 97.750.000** |
+| Komponen | (a) Karena mengalami kerugian — Pasal 43 ayat (1) | (b) Mencegah kerugian — Pasal 43 ayat (2) |
+| :--- | ---: | ---: |
+| UP | 9 × 0,5 × Rp 10.000.000 = Rp 45.000.000 | 9 × 1 × Rp 10.000.000 = Rp 90.000.000 |
+| UPMK | 4 × 1 × Rp 10.000.000 = Rp 40.000.000 | 4 × 1 × Rp 10.000.000 = Rp 40.000.000 |
+| UPH (cuti yang belum diambil & belum gugur, ongkos pulang, hak lain dalam PK/PP/PKB) | Sesuai data (Rp X) | Sesuai data (Rp X) |
+| **TOTAL** | **Rp 85.000.000 + UPH** | **Rp 130.000.000 + UPH** |
+
+*Catatan:* UPH **tidak** dihitung 15% dari UP + UPMK; ketentuan itu berasal dari rezim UU 13/2003 sebelum perubahan. Selisih Rp 45.000.000 antara skenario (a) dan (b) menunjukkan mengapa dasar efisiensi harus dibuktikan (mis. laporan keuangan hasil audit) dan sering menjadi pokok perselisihan PHK. Angka ini adalah batas minimum; verifikasi pengali terhadap regulasi terkini.
 
 ---
 
@@ -249,4 +266,4 @@ Siapkan dokumen berikut di folder `/evidence`:
 
 ---
 
-*Referensi: UU No. 2/2004 tentang PPHI, PP No. 35/2021 tentang Perjanjian Kerja, Alih Daya, Waktu Kerja dan Istirahat, dan PHK, UU No. 13/2003, SKKNI No. 149 Tahun 2020*
+*Referensi: UU No. 2/2004 tentang PPHI; UU No. 13/2003 tentang Ketenagakerjaan sebagaimana diubah melalui UU No. 6/2023; PP No. 35/2021 tentang PKWT, Alih Daya, Waktu Kerja dan Waktu Istirahat, dan PHK; Putusan MK No. 168/PUU-XXI/2023; SKKNI No. 149 Tahun 2020. Seluruh rujukan pasal perlu diverifikasi terhadap peraturan terkini.*
