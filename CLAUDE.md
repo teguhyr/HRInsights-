@@ -85,6 +85,7 @@ Bertindak sesuai kerangka asesmen berbasis kompetensi BNSP:
 03-kinerja-remunerasi/               M.70SDM01.015.2, .016.2
 04-hubungan-industrial/              M.70SDM01.025.2, .028.2
 modul-bimtek/                        modul pelatihan bimtek (lihat §2.1)
+modul-fondasi-hr/                    8 modul fondasi per cluster siklus hidup karyawan (lihat §2.2)
 evidence/                            (direncanakan) PRO-01 s.d. PRO-04
 README.md                            daftar unit & tautan materi
 ```
@@ -115,6 +116,15 @@ Dua lapis konten yang saling melengkapi: **materi ringkas per unit** (folder `01
 - Studi kasus memakai perusahaan fiktif dan harus berbeda dari kasus di materi ringkas.
 - Saat menambah/mengubah modul, perbarui juga `modul-bimtek/README.md` (daftar modul, JPL, daftar agen) dan bagian "Modul Bimbingan Teknis" di `README.md` akar.
 - Angka regulasi (pengali pesangon, tenggat PPHI, lembur, upah minimum) ditulis dengan catatan verifikasi; Putusan MK No. 168/PUU-XXI/2023 membuat banyak norma klaster ketenagakerjaan sedang berubah.
+
+### 2.2 Modul Fondasi HR (`modul-fondasi-hr/`)
+
+Lapis ketiga: peta pengetahuan per *cluster* HR mengikuti siklus hidup karyawan (`0N-<cluster>.md`, urutan 01 workforce planning → 08 offboarding; siklus ditutup kembali ke 01). Berbeda dari modul bimtek yang dipotong per unit SKKNI, modul fondasi dipotong per tahap siklus dan juga mencakup area tanpa unit tersendiri di repo ini (onboarding, offboarding, akuisisi talenta).
+
+- Setiap modul memakai 12 bagian berurutan: posisi dalam siklus & tujuan belajar · konsep dasar & istilah · teori & kerangka · proses inti · regulasi Indonesia · metrik (dengan rumus) · alat kerja · studi kasus · AI & agentic AI (tabel tugas/level + kanvas agen) · kesalahan umum · checklist kompetensi · uji pemahaman.
+- Baris meta di bawah judul memuat unit SKKNI terkait dan tautan "Pendalaman" ke modul bimtek. Bila topiknya sudah dibahas mendalam di modul bimtek (mis. 9-box, merit matrix, hitungan pesangon), **tautkan, jangan tulis ulang**.
+- Level otonomi AI & kanvas agen mengikuti `modul-bimtek/00-standar-pembelajaran.md` §9; nama agen tidak boleh sama dengan agen di modul bimtek.
+- Saat menambah/mengubah modul fondasi, perbarui `modul-fondasi-hr/README.md` (diagram siklus & tabel) dan bagian "Modul Fondasi HR Management" di `README.md` akar.
 
 ---
 
