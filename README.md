@@ -54,6 +54,20 @@ Setiap unit kompetensi memiliki dokumen materi yang mencakup:
 
 ---
 
+## 🎓 Modul Bimbingan Teknis (Bimtek)
+
+Modul pelatihan lengkap untuk bimtek sertifikasi Manager MSDM tersedia di folder [`modul-bimtek/`](modul-bimtek/README.md): standar pembelajaran, teori, konsep dasar, implementasi, contoh, studi kasus, pemanfaatan AI/AI agentik, dan latihan asesmen.
+
+| No | Modul | JPL |
+| :---: | :--- | :---: |
+| 0 | [Standar Pembelajaran & Pengantar AI Agentik](modul-bimtek/00-standar-pembelajaran.md) | 3 |
+| 1 | [Strategi & Perencanaan](modul-bimtek/01-strategi-perencanaan/MODUL-01-strategi-perencanaan.md) | 12 |
+| 2 | [Pengembangan Organisasi & Talenta](modul-bimtek/02-pengembangan-organisasi-talenta/MODUL-02-pengembangan-organisasi-talenta.md) | 12 |
+| 3 | [Kinerja & Remunerasi](modul-bimtek/03-kinerja-remunerasi/MODUL-03-kinerja-remunerasi.md) | 9 |
+| 4 | [Hubungan Industrial](modul-bimtek/04-hubungan-industrial/MODUL-04-hubungan-industrial.md) | 9 |
+
+---
+
 ## 📂 Portofolio (Evidence)
 
 Dokumen pendukung yang perlu disiapkan di folder `/evidence`:
@@ -70,5 +84,5 @@ Dokumen pendukung yang perlu disiapkan di folder `/evidence`:
 * **Standard:** SKKNI 149/2020 - MSDM
 
 ---
-Last Updated: 2026-04-02
+Last Updated: 2026-11-03
 Author: [Teguh Yoga Raksa] | [teguhyr.com](https://teguhyr.com)
