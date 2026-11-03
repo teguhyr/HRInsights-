@@ -1,6 +1,10 @@
-# CLAUDE.md — HRInsights
+# CLAUDE.md
 
-Panduan kerja bagi Claude saat membantu di repositori **HRInsights**: kumpulan materi, ringkasan, dan bukti kerja (*portfolio*) untuk persiapan sertifikasi kompetensi BNSP **Manager MSDM** berbasis **SKKNI 149/2020**, ditambah wawasan HR Strategy, HR Tech, dan regulasi ketenagakerjaan Indonesia.
+This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+
+Panduan kerja bagi Claude saat membantu di repositori **HRInsights**: kumpulan materi, ringkasan, modul bimtek, dan bukti kerja (*portfolio*) untuk persiapan sertifikasi kompetensi BNSP **Manager MSDM** berbasis **SKKNI 149/2020**, ditambah wawasan HR Strategy, HR Tech, dan regulasi ketenagakerjaan Indonesia.
+
+Repositori ini **murni dokumen Markdown** — tidak ada kode, *build*, *lint*, atau *test*. "Pengujian" berarti memeriksa tautan relatif antar-file, konsistensi kode unit/KUK, dan kepatuhan pada template di bawah.
 
 ---
 
@@ -80,6 +84,7 @@ Bertindak sesuai kerangka asesmen berbasis kompetensi BNSP:
 02-pengembangan-organisasi-talenta/  M.70SDM01.010.2, .012.2, .013.2
 03-kinerja-remunerasi/               M.70SDM01.015.2, .016.2
 04-hubungan-industrial/              M.70SDM01.025.2, .028.2
+modul-bimtek/                        modul pelatihan bimtek (lihat §2.1)
 evidence/                            (direncanakan) PRO-01 s.d. PRO-04
 README.md                            daftar unit & tautan materi
 ```
@@ -99,6 +104,17 @@ README.md                            daftar unit & tautan materi
 **Saat menambah unit baru**: buat file sesuai template, lalu perbarui **kedua** daftar di `README.md` (checklist unit dan tabel materi) serta tanggal *Last Updated*.
 
 **Konsistensi KUK**: kode unit, judul unit, elemen, dan KUK harus mengikuti dokumen resmi SKKNI 149/2020. Bila tidak yakin dengan rumusan resminya, tandai `> ⚠️ Perlu diverifikasi terhadap dokumen SKKNI resmi` — jangan mengarang rumusan KUK.
+
+### 2.1 Modul Bimtek (`modul-bimtek/`)
+
+Dua lapis konten yang saling melengkapi: **materi ringkas per unit** (folder `01-…`–`04-…` di akar) dan **modul pelatihan per bagian** (`modul-bimtek/0N-<bagian>/MODUL-0N-<bagian>.md`, satu modul memuat 2–3 unit). Modul menautkan balik ke materi ringkas; jangan menduplikasi isinya.
+
+- `modul-bimtek/00-standar-pembelajaran.md` adalah acuan wajib semua modul: alokasi JPL (total 50), taksonomi Bloom, metode, evaluasi Kirkpatrick, **rubrik §7**, tingkat otonomi AI **L0–L4** dan **Kanvas Desain Agen** (§9). Ubah di sini dulu bila standar berubah, lalu sesuaikan modul.
+- Setiap unit di dalam modul memakai urutan bagian **A–H**: Standar Pembelajaran Unit (tabel elemen → tujuan → KUK) · Konsep Dasar · Teori & Kerangka · Implementasi · Contoh Terapan · Studi Kasus (+ petunjuk fasilitator) · AI & Agentic AI (tabel tugas/level + satu kanvas agen dalam blok `text`) · Latihan Asesmen. Modul ditutup dengan studi kasus terpadu, post-test, dan refleksi *learning agility*.
+- Agen yang menyentuh keputusan atas hak, upah, karier, atau status kerja individu **maksimal L2**.
+- Studi kasus memakai perusahaan fiktif dan harus berbeda dari kasus di materi ringkas.
+- Saat menambah/mengubah modul, perbarui juga `modul-bimtek/README.md` (daftar modul, JPL, daftar agen) dan bagian "Modul Bimbingan Teknis" di `README.md` akar.
+- Angka regulasi (pengali pesangon, tenggat PPHI, lembur, upah minimum) ditulis dengan catatan verifikasi; Putusan MK No. 168/PUU-XXI/2023 membuat banyak norma klaster ketenagakerjaan sedang berubah.
 
 ---
 
