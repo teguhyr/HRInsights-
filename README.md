@@ -68,6 +68,23 @@ Modul pelatihan lengkap untuk bimtek sertifikasi Manager MSDM tersedia di folder
 
 ---
 
+## 🧭 Modul Fondasi HR Management
+
+Delapan modul fondasi pengetahuan HR Manager mengikuti siklus hidup karyawan, di folder [`modul-fondasi-hr/`](modul-fondasi-hr/README.md):
+
+| No | Cluster | Unit SKKNI terkait |
+| :---: | :--- | :--- |
+| 1 | [Workforce Planning & Akuisisi Talenta](modul-fondasi-hr/01-workforce-planning.md) | 001.2, 004.2 |
+| 2 | [Onboarding](modul-fondasi-hr/02-onboarding.md) | 002.2, 013.2 |
+| 3 | [Learning & Development](modul-fondasi-hr/03-development.md) | 013.2 |
+| 4 | [Performance Management](modul-fondasi-hr/04-performance-management.md) | 015.2 |
+| 5 | [Talent Management](modul-fondasi-hr/05-talent-management.md) | 012.2, 013.2 |
+| 6 | [Reward Management](modul-fondasi-hr/06-reward-management.md) | 016.2 |
+| 7 | [Industrial Relations](modul-fondasi-hr/07-industrial-relations.md) | 002.2, 025.2, 028.2 |
+| 8 | [Offboarding](modul-fondasi-hr/08-offboarding.md) | 028.2 |
+
+---
+
 ## 📂 Portofolio (Evidence)
 
 Dokumen pendukung yang perlu disiapkan di folder `/evidence`:
